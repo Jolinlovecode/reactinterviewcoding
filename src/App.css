@@ -1,0 +1,10 @@
+body {
+  background-color: green;
+  display: flex;
+}
+
+.App {
+  align-items: center;
+  text-align: center;
+  color:azure
+}
